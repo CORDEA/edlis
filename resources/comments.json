@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "slide_id": "1",
+    "user_id": "1",
+    "lang": "ja",
+    "comment": "comment",
+    "type": "standard",
+    "posted_at": "2017-03-30T16:44:15+09:00"
+  },
+  {
+    "id": "2",
+    "slide_id": "2",
+    "user_id": "2",
+    "lang": "ja",
+    "comment": "comment",
+    "type": "standard",
+    "posted_at": "2017-03-30T16:44:15+09:00"
+  },
+  {
+    "id": "3",
+    "slide_id": "3",
+    "user_id": "3",
+    "lang": "ja",
+    "comment": "comment",
+    "type": "standard",
+    "posted_at": "2017-03-30T16:44:15+09:00"
+  },
+  {
+    "id": "4",
+    "slide_id": "4",
+    "user_id": "4",
+    "lang": "ja",
+    "comment": "comment",
+    "type": "standard",
+    "posted_at": "2017-03-30T16:44:15+09:00"
+  }
+]
